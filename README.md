@@ -1,16 +1,22 @@
 ## Hi there 👋
+Experienced Senior Software Developer with expertise in backend development and blockchain technologies. Passionate about building innovative solutions and pushing the boundaries of web3.
 
-<!--
-**LovishB/LovishB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Dev:
+- Node.js (Express & NestJS are my jam)
+- REST APIs & GraphQL queries that don't quit
+- Docker? I containerize in my sleep
 
-Here are some ideas to get you started:
+🔗 Blockchain Alchemy:
+- EVM
+- Smart contracts using solidity
+- DApps
+- ETHGlobal hackathon hoarder (trophies, not NFTs... yet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tool Belt:
+Node.js, Express, NestJS, REST, GraphQL, Docker, Ethereum, Solidity, Web3.js, and a dash of chaos.
+
+🏆 Cool Stuff I Did:
+- Launched blockchain projects that even my grandma uses (okay, maybe not, but they're cool)
+- Hackathon hero (Recently won two web3 hackathons)
+
+If you need someone to turn ideas into code or explain blockchain to your gradma, I'm your dev. Let's build something awesome... or at least something that compiles!​​​​​​​​​​​​​​​​
