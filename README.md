@@ -29,7 +29,7 @@ Node.js, Express, NestJS, REST, GraphQL, Docker, Kubernetes, Ethereum, Solidity,
       </td>
       <td width="50%">
         <h3 align="center">
-          <a href="https://github.com/Krane-Apps/chain-monsters" target="_blank" style="color: black; text-decoration: none;">Repo Rewards 🏆</a>
+          <a href="https://github.com/Krane-Apps/repo-rewards-superhack-2024" target="_blank" style="color: black; text-decoration: none;">Repo Rewards 🏆</a>
         </h3>
         <div align="center">  
           <br>
@@ -40,7 +40,7 @@ Node.js, Express, NestJS, REST, GraphQL, Docker, Kubernetes, Ethereum, Solidity,
     <tr>
       <td width="50%">
         <h3 align="center">
-          <a href="https://github.com/Krane-Apps/repo-rewards-superhack-2024" target="_blank" style="color: black; text-decoration: none;">Chain Monsters 🏆</a>
+          <a href="https://github.com/Krane-Apps/chain-monsters" target="_blank" style="color: black; text-decoration: none;">Chain Monsters 🏆</a>
         </h3>
         <div align="center">  
           <br>
