@@ -1,5 +1,5 @@
 ## Hi there 👋
-Experienced Senior Software Developer with expertise in backend development and blockchain technologies. Passionate about building innovative solutions and pushing the boundaries of web3.
+Experienced Senior Software Developer with expertise in blockchain development and backend technologies. Passionate about building innovative solutions and pushing the boundaries of web3.
 
 🚀 Backend Dev:
 - Node.js & Java (Springboot & NestJS are my jam)
@@ -8,7 +8,8 @@ Experienced Senior Software Developer with expertise in backend development and 
 
 🔗 Blockchain Alchemy:
 - Serial ETHGlobal hackathon Winner, OnGoing Streak> 3 :)
-- EVM & Smart contracts using solidity
+- Foundry - Solidity
+- EVM Contracting
 - DApps
 
 🛠️ Tool Belt:
