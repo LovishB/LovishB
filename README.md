@@ -2,23 +2,25 @@
 Experienced Backend Developer with expertise in Microservices, Distributed Systems and Blockchain Engineering. Passionate about building innovative solutions and pushing the boundaries of web3.
 
 🚀 Backend:
+
 ![Go](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&color=00ADD8)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
-![Kafka](https://img.shields.io/badge/Tool-Kafka-informational?style=flat&logo=apache-kafka&color=231F20)
+![Kafka](https://img.shields.io/badge/Messaging-Kafka-informational?style=flat&logo=apache-kafka&color=231F20)
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![NestJS](https://img.shields.io/badge/Framework-Nest.js-informational?style=flat&logo=nestjs&color=E0234E)
 ![Gin](https://img.shields.io/badge/Framework-Gin-informational?style=flat&logo=go&color=00ADD8)
-![Redis](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&color=DC382D)
+![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&color=DC382D)
 
 🔗 Blockchain
+
 ![Solidity](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&color=363636)
-![Foundry](https://img.shields.io/badge/Tool-Foundry-informational?style=flat&logo=ethereum&color=3C3C3D)
+![Foundry](https://img.shields.io/badge/Framework-Foundry-informational?style=flat&logo=ethereum&color=3C3C3D)
 ![Forge](https://img.shields.io/badge/Tool-Forge-informational?style=flat&logo=ethereum&color=3C3C3D)
-![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-informational?style=flat&logo=ethereum&color=3C3C3D)
+![Ethereum](https://img.shields.io/badge/Dev-Ethereum-informational?style=flat&logo=ethereum&color=3C3C3D)
 ![Oracle](https://img.shields.io/badge/Dev-Oracle-informational?style=flat&logo=chainlink&color=375BD2)
 ![ERC-20](https://img.shields.io/badge/Token-ERC--20-informational?style=flat&logo=ethereum&color=3C3C3D)
 ![Wallets](https://img.shields.io/badge/Dev-Custodial_Wallets-informational?style=flat&logo=bitcoin&color=F7931A)
@@ -73,4 +75,4 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
 
 
 
-If you need someone to turn ideas into code or explain blockchain to your gradma, I'm your dev. Let's build something awesome... or at least something that compiles!​​​​​​​​​​​​​​​​
+If you need someone to turn ideas into code or explain blockchain to your gradma, I'm your dev.
