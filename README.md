@@ -26,7 +26,40 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
 ![Wallets](https://img.shields.io/badge/Dev-Custodial_Wallets-informational?style=flat&logo=bitcoin&color=F7931A)
 ![Cross-chain](https://img.shields.io/badge/Dev-Cross--chain-informational?style=flat&logo=ethereum&color=3C3C3D)
 
-## Cool Stuff I Did
+## My Hackathon Winner Projects 🏆
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/ritiklakhwani/zk-credit-score-eth-global-bangkok/main/preview.png" alt="ZK Credit Score" width="100%" height="180px"/>
+          <p align="center">
+            <a href="https://ethglobal.com/showcase/zk-credit-score-pa7r4" target="_blank">ZK Credit Score</a></br>
+          Winner ETHGlobal Bangkok25</p>
+        </div>
+      </td>
+      <td width="33%">
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/Krane-Apps/repo-rewards-superhack-2024/main/preview.png" alt="Repo Rewards" width="100%" height="180px"/>
+          <p align="center">
+            <a href="https://ethglobal.com/showcase/repo-rewards-su0bh" target="_blank">Repo Rewards</a></br>
+          Winner ETHGlobal Superhack</p>
+        </div>
+      </td>
+      <td width="33%">
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/Krane-Apps/chain-monsters/main/preview.png" alt="Chain Monsters" width="100%" height="180px"/>
+          <p align="center">
+            <a href="https://ethglobal.com/showcase/chain-monsters-o26dw" target="_blank">Chain Monsters</a></br>
+          Winner ETHGlobal Starkware</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## My Hackathon Winner Project
 <div align="left">
   <table>
     <tr>
