@@ -15,7 +15,7 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
 ![Gin](https://img.shields.io/badge/Framework-Gin-informational?style=flat&logo=go&color=00ADD8)
 ![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&color=DC382D)
 
-🔗 Blockchain
+🔗 Blockchain Dev
 
 ![Solidity](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&color=363636)
 ![Foundry](https://img.shields.io/badge/Framework-Foundry-informational?style=flat&logo=ethereum&color=3C3C3D)
@@ -27,81 +27,157 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
 ![Cross-chain](https://img.shields.io/badge/Dev-Cross--chain-informational?style=flat&logo=ethereum&color=3C3C3D)
 
 ## My Hackathon Winner Projects 🏆
-
-<div align="center">
+<div align="left">
   <table>
     <tr>
-      <td width="33%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/ritiklakhwani/zk-credit-score-eth-global-bangkok/main/preview.png" alt="ZK Credit Score" width="100%" height="180px"/>
-          <p align="center">
-            <a href="https://ethglobal.com/showcase/zk-credit-score-pa7r4" target="_blank">ZK Credit Score</a></br>
-          Winner ETHGlobal Bangkok25</p>
-        </div>
+      <td width="33%" onclick="window.open('https://ethglobal.com/showcase/zk-credit-score-pa7r4', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/zk-credit-score-pa7r4" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="default.png" alt="ZK Credit Score" width="80%" height="150px"/>
+            <p align="center" style="text-decoration:none;">
+              ZK Credit Score<br/>
+              ETHGlobal Bangkok 25
+            </p>
+          </div>
+        </a>
       </td>
-      <td width="33%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Krane-Apps/repo-rewards-superhack-2024/main/preview.png" alt="Repo Rewards" width="100%" height="180px"/>
-          <p align="center">
-            <a href="https://ethglobal.com/showcase/repo-rewards-su0bh" target="_blank">Repo Rewards</a></br>
-          Winner ETHGlobal Superhack</p>
-        </div>
+      <td width="33%" onclick="window.open('https://ethglobal.com/showcase/repo-rewards-su0bh', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/repo-rewards-su0bh" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="repo_rewards_without_bg.webp" alt="Repo Rewards" width="80%" height="150px"/>
+            <p align="center">
+              Repo Rewards<br/>
+              ETHGlobal Superhack 24
+            </p>
+          </div>
+        </a>
       </td>
-      <td width="33%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Krane-Apps/chain-monsters/main/preview.png" alt="Chain Monsters" width="100%" height="180px"/>
-          <p align="center">
-            <a href="https://ethglobal.com/showcase/chain-monsters-o26dw" target="_blank">Chain Monsters</a></br>
-          Winner ETHGlobal Starkware</p>
-        </div>
+      <td width="33%" onclick="window.open('https://ethglobal.com/showcase/chain-monsters-o26dw', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/chain-monsters-o26dw" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="CHAIN__1_-removebg-preview.png" alt="Chain Monsters" width="80%" height="150px"/>
+            <p align="center">
+              Chain Monsters<br/>
+              ETHGlobal Starkware 24
+            </p>
+          </div>
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
-## My Hackathon Winner Project
+## Smart Contract Development
+
 <div align="left">
+  <table width="80%" style="table-layout: fixed;">
+    <tr>
+      <td width="33%" onclick="window.open('https://ethglobal.com/showcase/zk-credit-score-pa7r4', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/zk-credit-score-pa7r4" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="png-transparent-bitcoin-ethereum-neo-decentralized-application-blockchain-ethereum-classic-erc20-initial-coin-offering.png" alt="ZK Credit Score" width="80%" height="150px"/>
+            <p align="center" style="text-decoration:none;">
+              ERC-20 Launch Pad With Time Locks<br/>
+            </p>
+          </div>
+        </a>
+      </td>
+       <td width="33%" onclick="window.open('https://ethglobal.com/showcase/chain-monsters-o26dw', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/chain-monsters-o26dw" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="1200px-Uniswap_Logo.svg.png" alt="Chain Monsters" width="80%" height="150px"/>
+            <p align="center">
+              UniSwap V3 </br>Implementation
+            </p>
+          </div>
+        </a>
+      </td>
+      <td width="33%" onclick="window.open('https://ethglobal.com/showcase/repo-rewards-su0bh', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/repo-rewards-su0bh" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="image (1).png" alt="Repo Rewards" width="80%" height="150px"/>
+            <p align="center">
+              4337 Wallet </br>Account Abstraction
+            </p>
+          </div>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" onclick="window.open('https://ethglobal.com/showcase/zk-credit-score-pa7r4', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/zk-credit-score-pa7r4" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="G2czctJJ_400x400.jpg" alt="ZK Credit Score" width="80%" height="150px"/>
+            <p align="center" style="text-decoration:none;">
+              Lending Platform </br>With Lido
+            </p>
+          </div>
+        </a>
+      </td>
+      <td width="33%" onclick="window.open('https://ethglobal.com/showcase/zk-credit-score-pa7r4', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/zk-credit-score-pa7r4" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="dao-line-icon-decentralized-autonomous-600nw-2190817317.webp" alt="ZK Credit Score" width="80%" height="150px"/>
+            <p align="center" style="text-decoration:none;">
+              DOA Voting </br>Implementation
+            </p>
+          </div>
+        </a>
+      </td>
+      <td width="33%" onclick="window.open('https://ethglobal.com/showcase/zk-credit-score-pa7r4', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/zk-credit-score-pa7r4" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="KFPeM667_400x400.jpg" alt="ZK Credit Score" width="80%" height="150px"/>
+            <p align="center" style="text-decoration:none;">
+              Cross Chain Bridge </br>With LayerZero
+            </p>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Backend Development
+   <div align="left">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">
-          <a href="https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok" target="_blank" style="color: black; text-decoration: none;">ZK Credit Score 🏆</a>
-        </h3>
-        <div align="center">  
-          <br>
-          <p>Winner EthGlobal Bangkok</p>
-        </div>
+      <td width="33%" onclick="window.open('https://ethglobal.com/showcase/zk-credit-score-pa7r4', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/zk-credit-score-pa7r4" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="images.png" alt="ZK Credit Score" width="80%"/>
+            <p align="center" style="text-decoration:none;">
+              Microservices in<br/>
+              Node.js, NATs, Postgres
+            </p>
+          </div>
+        </a>
       </td>
-      <td width="50%">
-        <h3 align="center">
-          <a href="https://github.com/Krane-Apps/repo-rewards-superhack-2024" target="_blank" style="color: black; text-decoration: none;">Repo Rewards 🏆</a>
-        </h3>
-        <div align="center">  
-          <br>
-          <p>Winner EthGlobal Superhack</p>
-        </div>
+      <td width="33%" onclick="window.open('https://ethglobal.com/showcase/repo-rewards-su0bh', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/repo-rewards-su0bh" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="images (1).png" alt="Repo Rewards" width="80%"/>
+            <p align="center">
+              API, WebSockets in<br/>
+              Golang, Gin, Docker
+            </p>
+          </div>
+        </a>
       </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">
-          <a href="https://github.com/Krane-Apps/chain-monsters" target="_blank" style="color: black; text-decoration: none;">Chain Monsters 🏆</a>
-        </h3>
-        <div align="center">  
-          <br>
-          <p>Winner EthGlobal Starkware</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">
-          <a href="https://github.com/LovishB/crypto-converter" target="_blank" style="color: black; text-decoration: none;">Micro-services Architecture</a>
-        </h3>
-        <div align="center">  
-          <br>
-          <p>Application to convert crypto prices to fiats</p>
-        </div>
+      <td width="33%" onclick="window.open('https://ethglobal.com/showcase/chain-monsters-o26dw', '_blank')" style="cursor:pointer;">
+        <a href="https://ethglobal.com/showcase/chain-monsters-o26dw" target="_blank" style="text-decoration:none; color:inherit;">
+          <div align="center">
+            <img src="394f0af82bf84be791633e850dd91e30.jpg" alt="Chain Monsters" width="80%" height="150px"/>
+            <p align="center">
+              Realtime Google Docs in<br/>
+              Goroutes, Channels
+            </p>
+          </div>
+        </a>
       </td>
     </tr>
+  </table>
+</div>
   </table>
 </div>
 
