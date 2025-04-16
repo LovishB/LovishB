@@ -21,10 +21,9 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
 ![Foundry](https://img.shields.io/badge/Framework-Foundry-informational?style=flat&logo=ethereum&color=3C3C3D)
 ![Forge](https://img.shields.io/badge/Tool-Forge-informational?style=flat&logo=ethereum&color=3C3C3D)
 ![Ethereum](https://img.shields.io/badge/Dev-Ethereum-informational?style=flat&logo=ethereum&color=3C3C3D)
-![Oracle](https://img.shields.io/badge/Dev-Oracle-informational?style=flat&logo=chainlink&color=375BD2)
 ![ERC-20](https://img.shields.io/badge/Token-ERC--20-informational?style=flat&logo=ethereum&color=3C3C3D)
-![Wallets](https://img.shields.io/badge/Dev-Custodial_Wallets-informational?style=flat&logo=bitcoin&color=F7931A)
-![Cross-chain](https://img.shields.io/badge/Dev-Cross--chain-informational?style=flat&logo=ethereum&color=3C3C3D)
+![ERC-20](https://img.shields.io/badge/Token-Bridges-informational?style=flat&logo=ethereum&color=3C3C3D)
+![Uniswap](https://img.shields.io/badge/Dev-Uniswap-informational?style=flat&logo=ethereum&color=3C3C3D)
 
 ## My Hackathon Winner Projects 🏆
 <div align="left">
