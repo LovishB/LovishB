@@ -76,7 +76,7 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
           <div align="center">
             <img src="png-transparent-bitcoin-ethereum-neo-decentralized-application-blockchain-ethereum-classic-erc20-initial-coin-offering.png" alt="ZK Credit Score" width="70px" height="70px"/>
             <p align="center" style="text-decoration:none;">
-              <ERC-20 Launch Pad <br/>With Time Locks
+              ERC-20 LaunchPad<br/>Time Vaults
             </p>
           </div>
         </a>
@@ -86,7 +86,7 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
           <div align="center">
             <img src="1200px-Uniswap_Logo.svg.png" alt="Chain Monsters" width="70px" height="70px"/>
             <p align="center">
-              UniSwap V3 </br>Implementation
+              UniSwap V3</br>Implementation
             </p>
           </div>
         </a>
@@ -96,7 +96,7 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
           <div align="center">
             <img src="image (1).png" alt="Repo Rewards" width="70px" height="70px"/>
             <p align="center">
-              4337 Wallet </br>Account Abstraction
+              4337 Wallet</br>Account Abstraction
             </p>
           </div>
         </a>
@@ -108,7 +108,7 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
           <div align="center">
             <img src="G2czctJJ_400x400.jpg" alt="ZK Credit Score" width="70px" height="70px"/>
             <p align="center" style="text-decoration:none;">
-              Lending Platform </br>With Lido
+              Lending Platform</br>Lido
             </p>
           </div>
         </a>
@@ -118,7 +118,7 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
           <div align="center">
             <img src="dao-line-icon-decentralized-autonomous-600nw-2190817317.webp" alt="ZK Credit Score" width="70px" height="70px"/>
             <p align="center" style="text-decoration:none;">
-              DOA Voting </br>Implementation
+              DOA Voting</br>Implementation
             </p>
           </div>
         </a>
@@ -128,7 +128,7 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
           <div align="center">
             <img src="KFPeM667_400x400.jpg" alt="ZK Credit Score" width="70px" height="70px"/>
             <p align="center" style="text-decoration:none;">
-              Cross Chain Bridge </br>With LayerZero
+              Cross-Chain Bridge</br>LayerZero
             </p>
           </div>
         </a>
