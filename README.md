@@ -147,7 +147,7 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
             <img src="images.png" alt="ZK Credit Score" width="80px" height="80px"/>
             <p align="center" style="text-decoration:none;">
               Microservices<br/>
-              Node.js + NATs + Postgres
+              Node.js + Postgres
             </p>
           </div>
         </a>
@@ -158,7 +158,7 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
             <img src="images (1).png" alt="Repo Rewards" width="80px" height="80px"/>
             <p align="center">
               API, WebSockets<br/>
-              Golang + Gin + Docker
+              Golang + Docker
             </p>
           </div>
         </a>
