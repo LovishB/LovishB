@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Lovish
 
-Experienced Backend Developer with expertise in Microservices, Distributed Systems and Blockchain Engineering. Passionate about building innovative solutions and pushing the boundaries of web3.
+Experienced Backend Developer with expertise in Microservices, Distributed Systems and Blockchain Engineering. Serial Hackathon Winner 6x🏆 and passionate about pushing the boundaries of web3.
 
 ###
 
@@ -39,6 +39,17 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
 ![ERC-20](https://img.shields.io/badge/Token-ERC--20-informational?style=flat&logo=ethereum&color=3C3C3D)
 ![ERC-20](https://img.shields.io/badge/Token-Bridges-informational?style=flat&logo=ethereum&color=3C3C3D)
 ![Uniswap](https://img.shields.io/badge/Dev-Uniswap-informational?style=flat&logo=ethereum&color=3C3C3D)
+
+###
+</br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LovishB/LovishB/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LovishB/LovishB/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LovishB/LovishB/output/pacman-contribution-graph.svg">
+</picture>
+</br>
+
+###
 
 ## My Hackathon Winner Projects 🏆
 <div align="left">
