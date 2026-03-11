@@ -1,19 +1,34 @@
 ## 👋 Hi there, I'm Lovish
+
 Experienced Backend Developer with expertise in Microservices, Distributed Systems and Blockchain Engineering. Passionate about building innovative solutions and pushing the boundaries of web3.
 
-🚀 Backend:
+###
 
-![Go](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&color=00ADD8)
-![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
-![Kafka](https://img.shields.io/badge/Messaging-Kafka-informational?style=flat&logo=apache-kafka&color=231F20)
-![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
-![Kubernetes](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![NestJS](https://img.shields.io/badge/Framework-Nest.js-informational?style=flat&logo=nestjs&color=E0234E)
-![Gin](https://img.shields.io/badge/Framework-Gin-informational?style=flat&logo=go&color=00ADD8)
-![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&color=DC382D)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="60" alt="apachekafka logo"  />
+</div>
+</br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&speed=80&color=BD93F9&background=00000000&vCenter=true&repeat=true&width=500&height=30&lines=Backend+Developer;Microservices+Architect;Distributed+Systems+Engineer;Azure+Cloud+Engineer" alt="Typing SVG" /></a>
+
+###
 
 🔗 Blockchain Dev
 
@@ -101,8 +116,6 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
           </div>
         </a>
       </td>
-    </tr>
-    <tr>
       <td onclick="window.open('https://ethglobal.com/showcase/zk-credit-score-pa7r4', '_blank')" style="cursor:pointer;">
         <a href="https://ethglobal.com/showcase/zk-credit-score-pa7r4" target="_blank" style="text-decoration:none; color:inherit;">
           <div align="center">
@@ -177,10 +190,13 @@ Experienced Backend Developer with expertise in Microservices, Distributed Syste
     </tr>
   </table>
 </div>
-  </table>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=LovishB&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
-
+###
 
 If you need someone to turn ideas into code or explain blockchain to your gradma, I'm your dev.
